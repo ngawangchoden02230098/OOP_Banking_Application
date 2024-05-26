@@ -1,0 +1,1 @@
+[{"account_number": "001", "account_type": "Personal", "balance": 200.0, "password": "gW77a"}]
